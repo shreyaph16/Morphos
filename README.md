@@ -26,7 +26,7 @@ The second part trains a conditional DCGAN with spectral normalisation on the au
 ## Dataset
 
 The dataset contains 25 images per class across 10 Indian textile categories, organised into class subfolders. The ZIP file is to be uploaded directly in the notebooks.
-Dataset Link: [Link Test](https://huggingface.co/datasets/shreyaph16/Indian_Textile_Dataset/tree/main)
+Dataset Link: [Indian Textile Dataset](https://huggingface.co/datasets/shreyaph16/Indian_Textile_Dataset/tree/main)
 
 ## How to Run
 
